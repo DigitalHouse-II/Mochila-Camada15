@@ -1,0 +1,3 @@
+a) Lo creo Linus Torvalds para trabajar sin conexión y de forma remota fácilmente.
+b) Microsoft, porque quiso :v
+c) Si, mediante interfaces gráficas
