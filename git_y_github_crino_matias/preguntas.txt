@@ -1,0 +1,8 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+    Respuesta1
+b. ¿A quién pertenece actualmente Github y por qué?
+    Respuesta2
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+    Respuesta3
+
+    
