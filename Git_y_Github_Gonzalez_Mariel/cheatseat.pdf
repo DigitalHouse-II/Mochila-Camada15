@@ -1,0 +1,71 @@
+GIT COMANDOS  
+
+git init = Iniciar un repositorio. Siempre es el primer paso. Primero está vacío hasta que le asignemos los archivos deseados  
+
+git config user.name “mi nombre de usuario” Para registrarme  
+
+git config user.email “mi email” Lo mismo. 
+
+Git config - - global user.name  para siempre quedar con la sesion iniciada 
+
+Git restore : restaura al estado del commit anterior  
+
+ 
+
+git add para agregar los archivos al repositorio 
+
+Git add mas nombre del archivo o los archivos que querramos agregar al repositorio 
+
+Git add .  Para agregar todos los archivos y no uno solo  
+
+Cuando editamos un archivo o surge una modificación pasa a estar sin seguimiento nuevamente (estado principal) Cuando ya no vamos a hacerle mas cambios, volvemos a escribir git add . Y lo agregamos a en seguimiento. 
+
+Git status (ver el estado) 
+
+Git log (podemos ver los commits con la descripcion y el autor. 
+ 
+Para crear un commit: git commit –m “Seguido de un mensaje aca que describa de manera resumida el trabajo hecho hasta ahora”  Acá entran los archivos que posteriormente hayamos agregados al repositorio con git add. 
+
+GITHUB 
+
+git remote remove origin PARA DESCONECTAR EL REPOSITORIO  
+
+rm -rf .git limpiamos la inicializacion  del repositorio en la carpeta  
+
+Git remote add origin (y copiamos url del repositorio de github)  conectarnos al repositorio
+
+Git remote –v para corroborar que el paso anterior haya quedado bien  y estemos conectados al repositorio . 
+
+Haciendo eso le indicamos al repositorio local con que repositorio remoto se va a sincronizar. Cuando queremos subir algo a la nube, debemos tenerlo ya commiteado  
+
+Git push (no podemos hacerlos sin antes haber usado commit en el archivo) 
+
+Git push origin (y la rama en la que estoy) para subir los archivos del repositorio local al remoto. 
+
+COMO BAJAR ARCHIVOS?  
+
+Siempre hacer pull antes que push . 
+
+SINO GENERA CONFLICTO (en caso mi compañero lo haya modificado)
+
+Para generarlo hacemos git push y despues git pull 
+
+Git clone (permite crear una copia exacta en la computadora de todos los archivos existentes en un repositorio remoto.) 
+
+Git clone (mas la url donde estan los archivos) 
+
+Se ejecuta una sola vez y siempre y cuando no tengamos esos archivos en la pc. 
+
+Si ya tenemos los archivos y deseamos actualizarlos o agregar los nuevos, usaremos el comando git pull origin main  
+
+Git status para ver el estado de los archivos 
+
+Commits = Confirmacion de agregado de archivos, cada uno tiene un autor, podemos ver el cambio  de cada archivo. 
+
+COMO CREAR UNA RAMA: 	 
+
+Git branch y el nombre de la rama  
+
+Si ponemos solo git branch nos muestra las ramas que hay  
+
+Git checkout y el nombre de la rama (me cambia a esa rama y saca del main
