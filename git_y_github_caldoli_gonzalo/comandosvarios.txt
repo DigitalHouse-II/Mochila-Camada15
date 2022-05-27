@@ -1,0 +1,55 @@
+git init --> inicializar git en una capeta y sus contenidos
+
+rm -rf .git --> borrar la carpeta oculta git, deja de hacer seguimiento
+
+git branch -m nombre --> cambiar el nombre de la rama principal
+
+git config user.name "nombre usuario" --> config el username
+
+git config user.email "emailUsuario@email.com" --> config el user email
+
+git config user.name o git config user.email --> checkear los datos configurados
+
+git config user.name --global o git config user.email --global --> config en todos los proyectos
+
+git add nombreArchivo --> agrega un archivo que no tenga seguimiento o se haya modificado
+
+git add . --> agrega todos los archivos que no tengan seguimiento o se hayan modificado. Si borre un archivo o carpeta hay que hacer add igual
+
+git restore --> . para restaurar los archivos que haya borrado en mi pc pero no en git, nombre para uno especifico
+
+git rm --cached --> nombre de archivo para sacar del staging o . para sacar todos
+git restore --staged --> nombre de archivo para sacar del staging uno o . para sacar todos
+
+git status --> ver cuales archivos tienen seguimiento y cuales no
+git staus -s --> muestra el status mas recortado
+
+git commit -m "mensaje" --> subir los cambios a git (queda registrada la fecha y los archivos que cambiaron o son nuevos; se escribe un mensaje que describa que se cambio o agrego).
+
+git remote add origin link --> link apunta a la rama original del proyecto en el repositorio remoto desde el local
+
+git push origin master//main --> subir los cambios al repositorio remoto
+
+git pull --> por lo general se hace git pull origin master//main, descarga los cambios del repositorio remoto al local (mi pc)
+
+git clone link --> clonar el repositorio que ponga en el link, se usa para empezar a trabajar en un proyecto que no tenga ya en mi pc. Se envia un link por mail y se acepta la invitacion para poder clonar si es privado
+
+=======================
+
+si hay un conflicto (alguien subió cambios que no tengo) hay que hacer un pull y ver:
+si no hay conflicto entre lo nuevo y lo mio git lo soluciona solo y solo hay que hacer un commit con un mensaje explicando que paso y que se hizo;
+
+si hay conflicto entre lo nuevo y lo mio (editamos la misma propiedad de un mismo archivo) git me tira un mensaje de error. Lo que esta arriba de ==== es lo mio, lo de abajo es lo que trajo el pull.
+Hay que decidir si quedarme con lo que tenía, dejar lo que vino y borrar lo mio o dejar los 2 cambios.
+Una vez que se decide hay que borrar el texto que agrega git y ya se puede hacer un add, commit y push al repositorio.
+
+=======================
+
+git log --> ver info de los logs de commits, --oneline muestra solo una linea de data mas entendible
+git log --oneline | grep comentario -->  sirve para buscar un comentario en específico.
+git log --all --grep="comentario" --> buscar commit log en todas las ramas (puede ser distinto, lo vi de internet)
+
+git checkout nombre de commit --> nombre/numero de commit al que quiero volver
+git checkout main --> para volver a la actualidad
+
+escape:wq --> si puse commit -m me lleva a editor de texto, con esto salgo
