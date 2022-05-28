@@ -1,0 +1,8 @@
+git push origin master//main --> subir los cambios al repositorio remoto
+
+git push origin nombreRama --> para subir los cambios a la rama nombreRama
+
+git pull --> por lo general se hace git pull origin master//main, descarga los cambios del repositorio remoto al local (mi pc)
+
+git clone link --> clonar el repositorio que ponga en el link, se usa para empezar a trabajar en un proyecto que no tenga ya en mi pc. Se envia un link por mail y se acepta la invitacion para poder clonar si es privado
+Crea una carpeta abajo de la que haya hecho el comando
