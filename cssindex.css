@@ -55,11 +55,14 @@ h3{
     height: 37px;
     left: 0px;
     text-transform: uppercase;
+    background-size: cover;
 }
 #img{
 display: block;
 margin: 0px auto;
 width: 300px;
+position: relative;
+right: 50px
 }
 #div{
     margin-left: 250px;
@@ -80,9 +83,10 @@ width: 300px;
     margin-top: 20px;
     margin-right: 10px;
     margin-left: 10px;
+    left: 5px;
 }
 .div{
-    padding: 50px;
+    padding: 5px;
 }
 #header{
     background-image: url(https://static1.elcorreo.com/www/multimedia/202006/07/media/cortadas/opi-portocarrero-kLeC-U110431176796zMD-624x385@El%20Correo.jpg);
@@ -92,7 +96,12 @@ width: 300px;
     margin-left: 1px;
     margin-right: 1px;
     padding-right: 500px;
+    right: 5px;
+    left: 5px;
+    position: relative;
+    top: 70px;
 }
 #div{
-    margin-left: 420px;
+    left: 5px;
+    right: 5px;
 }
