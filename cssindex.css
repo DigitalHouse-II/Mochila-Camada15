@@ -78,9 +78,21 @@ width: 300px;
     background-color: #005677;
     height: 20px;
     margin-top: 20px;
-    padding-right: 30px;
     margin-right: 10px;
+    margin-left: 10px;
 }
 .div{
     padding: 50px;
+}
+#header{
+    background-image: url(https://static1.elcorreo.com/www/multimedia/202006/07/media/cortadas/opi-portocarrero-kLeC-U110431176796zMD-624x385@El%20Correo.jpg);
+    background-size: cover;
+}
+#p{
+    margin-left: 1px;
+    margin-right: 1px;
+    padding-right: 500px;
+}
+#div{
+    margin-left: 420px;
 }
