@@ -1,0 +1,55 @@
+GAMA BAJA: 
+- Procesador: Procesador Intel Core i3 7100
+- Placa madre: Mother Asrock B365M-OEM
+- Memoria principal: Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Solido SSD HIKVISION C100 240GB 550MB/s
+
+- Procesador: Ryzen 3 2200g
+- Placa madre: Mother ASUS PRIME A320M-K Ryzen 2da Gen Ready M-ATX
+- Memoria principal: Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Solido SSD HIKVISION C100 240GB 550MB/s
+
+- Procesador: Procesador Intel Core i3 10100F 4.3GHz Turbo 1200 Comet Lake
+- Placa madre: Mother Asrock B365M-OEM
+- Memoria principal: Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Solido SSD HIKVISION C100 240GB 550MB/s
+
+GAMA MEDIA
+
+- Procesador: Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake
+- Placa madre: Mother Gigabyte H510M H M-ATX S1200
+- Memoria principal: 2 x Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Sólido SSD WD 240GB GREEN 545MB/s*
+- GPU: GeForce GT 1030 2GD4 LP OC
+
+- Procesador: Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake
+- Placa madre: Mother Gigabyte H510M H M-ATX S1200
+- Memoria principal: 2 x Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Sólido SSD WD 240GB GREEN 545MB/s*
+- GPU: GeForce GT 1030 2GD4 LP OC
+
+- Procesador: Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake
+- Placa madre: Mother Gigabyte H510M H M-ATX S1200
+- Memoria principal: 2 x Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Sólido SSD WD 240GB GREEN 545MB/s*
+- GPU: GeForce GT 1030 2GD4 LP OC
+
+GAMA ALTA
+
+- Procesador: Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake
+- Placa madre: Mother Gigabyte H510M H M-ATX S1200
+- Memoria principal: 2 x Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Sólido SSD WD 240GB GREEN 545MB/s*
+- GPU: GeForce GT 1030 2GD4 LP OC
+
+- Procesador: Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake
+- Placa madre: Mother Gigabyte H510M H M-ATX S1200
+- Memoria principal: 2 x Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Sólido SSD WD 240GB GREEN 545MB/s*
+- GPU: GeForce GT 1030 2GD4 LP OC
+
+- Procesador: Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake
+- Placa madre: Mother Gigabyte H510M H M-ATX S1200
+- Memoria principal: 2 x Memoria Adata DDR4 4GB 2666MHz
+- Memoria secundaria: Disco Sólido SSD WD 240GB GREEN 545MB/s*
+- GPU: GeForce GT 1030 2GD4 LP OC
