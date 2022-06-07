@@ -1,0 +1,103 @@
+@font-face{
+    src: url('../Roboto/Roboto-Light.ttf');
+}
+select{
+    background-color: black;
+    color: white;
+}
+.location{
+    width: 20px;
+}
+ul{
+    list-style: none;
+}
+footer{
+    background-color: #3C2313;
+    padding: 20px;
+    border: #3C2313;
+    padding-top: 20px;
+}
+.p{
+    color: #ABA60F;
+}
+main{
+    background-color: #E5E5E5;
+}
+#banner{
+    width: 100%;
+    position: relative;
+}
+#div{
+    background-color: black;
+}
+.select{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+}
+.div{
+    background-color: #F0A83E;
+}
+.ul{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    text-align: right;
+}
+.li{
+    text-align: right;
+}
+.nav{
+    margin-left: 300px;
+}
+.huella{
+    width: 100px;
+    margin-left: 400px;
+    position: relative;
+    left: 630px;
+}
+.h1{
+    margin-left: 250px;
+    font-size: 40px;
+    font-family:sans-serif;
+    text-align: center;
+}
+#ul{
+    display: flex;
+    flex-direction: row;
+    text-indent: 10px;
+    position: relative;
+    left: 620px;
+}
+.Destacadosimg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 730px;
+}
+.DestacadosimgC{
+    display: flex;
+    margin-top: 4rem;
+}
+#ofertas{
+    color: white;
+}
+.contacto{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 200px;
+    left: 970px;
+}
+.imgwt{
+width: 100%;
+}
+.navcat{
+    position: relative;
+    left: 1500px;
+}
+.imglogo{
+    width: 300px;
+}
