@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    list-style: none;
+    text-indent: 15px;
+    color: white;
+    left: 1500px;
+    bottom: 70px;
+}
+header{
+    background-color: #222222;
+    position: relative;
+    bottom: 20px;
+    right: 8px;
+    width: 100%;
+    height: 100px;
+}
+.h1-italia{
+    color: red;
+}
+.titulo{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 50px;
+}
+.and{
+    color: white;
+}
+.front{
+    color: green;
+}
+.envios{
+    position: relative;
+    bottom: 350px;
+    display: flex;
+    flex-direction: row;
+    left: 20px;
+}
+.podio{
+    color: red;
+    position: relative;
+    bottom: 400px;
+    left: 600px;
+}
+.top5{
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+}
+.h2{
+    left: 30px;
+    position: relative;
+}
+.nav-footer{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    text-indent: 10px;
+    color: white;
+}
+.list-foot{
+    list-style: none;
+}
+footer{
+    background-color: #222222;
+    margin-bottom: 0px;
+    position: relative;
+    height: 150px;
+    bottom: 0;
+    width: 100%;
+    right: 10px;
+    margin-bottom: 0;
+}
+.lis{
+    margin-bottom: 12px;
+}
+.pizza{
+    position: relative;
+    left: 760px;
+    bottom: 500px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    bottom: 60px;
+}
+.img-footer{
+    width: 50px;
+    position: relative;
+    bottom: 100px;
+    left: 1500px;
+    margin: 0;
+}
+.logo-F{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 1580px;
+    bottom: 170px;
+}
