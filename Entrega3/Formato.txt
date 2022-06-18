@@ -1,0 +1,2 @@
+Esto es una pruba para ver como se hace una actualizacion del archivo Formato.txt 
+, mediante el GitHub,desde la maquina virtual.
