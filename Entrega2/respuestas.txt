@@ -1,0 +1,9 @@
+Preguntas y respuestas maquina virtual entrega 2:
+1)	Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, 
+	este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. 
+	Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+2)	Máquina virtuale de sistema ya que no solo muestra mas que el proceso sino que tambien usa la virtualizacion permite que una maquina fisica 
+	se multiplique en muchas maquinas vituales
+
+3)	no afecta ni a la computadora que lo esta "hosteando" ni a las otras ya que se encuentran en distintos aspectos
