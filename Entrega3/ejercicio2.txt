@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" xid-max="25" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Thu Jun 23 21:21:57 2022
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">usuario-intro</m>
+<m key="dc.date">Thu Jun 23 21:21:57 2022
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="1244" last-saved="1656030117" uid="c2bf7ac6-f350-11ec-987d-a1a855bda1bf">
+<version id="1" started="1656030117" uid="a85d9fde-f353-11ec-987d-a1a855bda1bf" auto="0" top-xid="25"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="24" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr"><c>¿Por qué un lenguaje de programación sólo puede utilizarse en algunos</c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c>sistemas operativos y en otros no?.</c></p>
+<p style="Normal" xid="3"><c props="font-weight:normal; font-style:normal"></c></p>
+<p style="Normal" xid="4"><c props="font-weight:normal; font-style:normal"></c><c props="font-weight:normal; font-style:normal">Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.</c></p>
+<p style="Normal" xid="6"><c props="font-weight:normal; font-style:normal"></c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c>¿Qué tipo de máquina virtual es virtualBox?.</c></p>
+<p style="Normal" xid="1"><c></c></p>
+<p style="Normal" xid="2"><c props="font-weight:bold">Oracle VM VirtualBox</c></p>
+<p style="Normal" xid="8"><c>Es un software de virtualización para arquitecturas x86/amd64, creado originalmente por la empresa alemana innotek GmbH. Actualmente es desarrollado por Oracle Corporation como parte de su familia de productos de virtualización. Por medio de esta aplicación es posible instalar sistemas operativos adicionales, conocidos como «sistemas invitados», dentro de otro sistema operativo «anfitrión», cada uno con su propio ambiente virtual.</c></p>
+<p style="Normal" xid="9"><c><br/></c></p>
+<p style="Normal" xid="10"><c>Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS y muchos otros.</c></p>
+<p style="Normal" xid="14"><c></c></p>
+<p style="Normal" xid="15"><c></c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"><c>Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las</c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c>demás? ¿por qué?</c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c>Las </c><c props="font-weight:bold">máquinas virtuales</c><c> de procesos </c><c props="font-weight:bold">se</c><c> ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, </c><c props="font-weight:bold">si</c><c> una de ellas falla, no afectará al funcionamiento del resto.</c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c>La </c><c props="font-weight:bold">máquina virtual</c><c> no es tan eficiente como una verdadera cuando se accede al hardware. La virtualización ofrece una serie de </c><c props="font-weight:bold">ventajas</c><c>: centralizar la administración de red, reducir la dependencia de hardware y software adicional, etc. Pero, como siempre ocurre, también presenta ciertas deficiencias.</c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="11"><c><br/></c></p>
+<p style="Normal" xid="12"><c></c></p>
+<p style="Normal" xid="13"><c></c></p>
+</section>
+</abiword>
