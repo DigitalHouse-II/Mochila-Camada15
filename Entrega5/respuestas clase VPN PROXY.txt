@@ -1,0 +1,12 @@
+186.128.59.251 IP sin VPN
+77.111.246.40 IP con VPN
+45.139.122.241 IP de TOR
+
+1) no son las mismas
+2) sin vpn no me deja ver el video y con vpn si. Lo q sucedio esq al tener la ip en argentina no me deja pero al cambiarla con el vpn si me deja 
+3)Si deja localizar la IP en Tor.
+4)En opera sin vpn en internet me anda muy bien (200 de baja y 200 de subida ping de 5) y con VPN el internet cae a (1 de bajada y 11.6 de subida ping de 317)
+5)si son distintas ya que no es la mismo usar un serivdor de argentina en argentina que un servidor de USA en argentina.
+6)El ping es una unidad de medida que sirve para medir la latencia.
+7)En Tor pasa lo mismo baja la intensidad de la conexion de internet. (0.88 de descarga , 8 de subida y ping 244)
+8) El ping varia ya que se estas conectando a un servidor lejos de tu pais.Si te conectas de arg a usa va a haber mayor ping. Cuanta mas distancia mas el ping.
