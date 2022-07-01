@@ -1,0 +1,79 @@
+ip publica 179.29.82.92
+geolocalizacion area actual, real
+
+
+con vpn
+ip publica 77.111.246.40
+geolocalizacion País	United States
+Ciudad	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+
+¿Las ip públicas son las mismas? 
+No
+
+¿por qué?
+Una VPN, o red privada virtual, cambia tu ubicación aparente redirigiendo tu tráfico a través de un servidor 
+que está ubicado en otro lugar. Funciona así: La aplicación de tu VPN te permite seleccionar un servidor en cualquier 
+lugar del mundo donde esa VPN tenga servidores.
+
+Sin utilizar la VPN puedes ver el siguiente video? No, no se puede ver
+
+Ahora activala e intenta verlo, ¿que es lo que sucedió?
+
+¿Por qué?
+Porque el video está restringido para ciertas áreas, al cambiar de IP con un VPN nos toma 
+como si estuviermos en un área geográfica distinta a la actual donde si esta permitido ver el video
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+ IP 51.77.39.255
+
+no se puede geolocalizar
+
+País 	Anonymous Proxy
+Ciudad 	
+Latitud 	0
+Longitud 	0
+ISP 	OVH SAS
+
+
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+
+ DESCARGA Mbps
+17.61
+ SUBIDA Mbps
+28.68
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+
+ DOWNLOAD Mbps
+0.89
+ UPLOAD Mbps
+4.75
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+Download Mbps
+5.46
+Upload Mbps
+5.70
+
+
+ping ms 670
+
+¿Las velocidades en los test son diferentes? 
+
+Si
+
+¿Por qué crees que sucede esto?
+Por el tráfico en los servidores
+
+¿Que significa el valor del ping?
+el ping es la medida que se ocupa para medir la latencia y es expresado 
+en milisegundos (o en su abreviación ms). Esto significa que a medida que el ping sea más bajo, mejor.
+
+latencia - Tiempo que transcurre entre un estímulo y la respuesta que produce
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+ Si, justamente porque los tiempos de respuesta varían dependiendo el servidor al que nos conectemos.
