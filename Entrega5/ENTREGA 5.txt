@@ -1,0 +1,35 @@
+IP SIN VPN: 	Su IPv4: 201.190.178.163
+		Su IPv6: 2803:6602:1900:f700:7d7e:f49e:94fa:de2b
+
+IP CON VPN DE OPERA: 	Su IPv4: 77.111.246.40
+			Su IPv6: 2001:67c:2628:647:12::312
+
+
+IP CON TOR VPN:   	Su IP: 54.36.108.162
+			País: Anonymous Proxy
+
+1-Las IP publicas cambian al activar el VPN ya que simula estar en otro país. 
+2- Sin el VPN activado no pude verlo, una vez que lo activé si me lo permite.
+3- No pude localizar la IP con Tor activado.
+
+VELOCIDADES DE INTERNET
+
+Con Opera sin VPN: 	Subida: 30MBps
+			Bajada: 30MBps
+			ping: 20ms
+
+Con Opera con VPN: 	Subida: 10MBps
+			Bajada: 1.30MBps
+			ping: 314ms
+
+Con Tor: 	Subida: 6.07MBps
+		Bajada: 2.52MBps
+		ping: 540ms
+
+Las velocidades son diferentes ya que cuando activo el VPN se conecta a un servidor de otro país 
+y esto hace que la conexion se vuelva mucho mas lenta.
+
+El valor ping es la latencia que tiene el internet y se mide en milisegundos.
+
+El ping varia dependiendo del país al que se conecte nuestro VPN.
+
