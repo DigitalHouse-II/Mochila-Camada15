@@ -1,0 +1,19 @@
+IP en navegador Opera con VPN: 
+77.111.246.40 
+Ubicación: EEUU
+
+IP en navegador Opera sin VPN: 
+186.55.31.59
+Ubicación: Uruguay
+
+IP en navegador Tor: 
+104.219.236.119
+Ubicación: Nueva York, Estados Unidos.
+
+Las IP públicas no son las mismas debido al servidor al cual se conecta a la página destino.
+
+Sin utilizar la VPN no podemos visualizar el siguiente video. 
+Al activar la VPN nos salta una ventana en la que debemos clickear para continuar y ahí podemos reproducir el mismo.
+
+Si pudimos localizar nuestra IP utilizando Tor.
+
