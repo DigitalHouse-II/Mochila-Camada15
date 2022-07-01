@@ -1,0 +1,15 @@
+¿Que es un usuario root en Linux? 
+Es el usuario que tiene acceso administrativo al sistema. 
+
+¿Por qué Ubuntu no me deja establecer una contraseña durante la instalación? 
+Porque la primera cuenta de usuario que creamos en nuestro sistema durante la instalación tendrá por defecto acceso a sudo.
+
+¿Cuáles son los procesos típicos de Linux? 
+Un proceso en Linux genera un nuevo proceso para que realice una tarea determinada, y este nuevo proceso es considerado proceso «hijo» del proceso anterior, al que llamaremos «padre«
+Esta estructura de procesos padres e hijos forman un árbol jerárquico de procesos, en los que podemos distinguir a hilos del kernel, al proceso init, y al resto de los rcesos l sistea, descpdemoolgados de algún otro proceso, lo que nos da una idea de qué proceso generó a cuál otro.
+
+
+¿Cómo identificarlos? 
+
+¿Cómo establecer una contraseña en nuestro usuario root? 
+Utilizamos el comando sudo passwd root 
