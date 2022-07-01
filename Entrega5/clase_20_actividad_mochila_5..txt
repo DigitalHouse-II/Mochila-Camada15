@@ -1,0 +1,73 @@
+Opera VPN:
+vpn :77.111.246.4
+País	United States
+Ciudad	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+ISP	Opera Mini Proxy
+ip 201.231.67.4
+
+Chrome:
+País	Argentina
+Ciudad	Cordoba
+Latitud	-31.391799926758
+Longitud	-64.184799194336
+ISP	Personal
+
+
+¿IP Publicas son las mismas? No, porque estamos cambiando la geolocalización.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué? Sin VPN si pudimos pero
+con el vpn de TOR no.
+
+Utilizando Tor ¿pudimos localizar la IP ? No pudimos geolocalizar, sería contrario a su proposito.
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+
+SIN VPN-DOWNLOAD Mbps
+2.94
+ UPLOAD Mbps
+2.68
+Ping ms  288  1082  2342
+Connections
+Multi
+SCTelcom
+Medicine Lodge, KS
+Change Server
+Personal
+
+CON VPN-DESCARGA Mbps
+5.00
+ SUBIDA Mbps
+2.69
+Ping ms  295  534  951
+Conexiones
+Multi
+Giant Communications, Inc.
+Haviland, KS
+Cambiar servidor
+Opera Mini
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+Download Mbps
+1.55
+Upload Mbps
+1.19
+Ping ms 3460 1433 --
+Connections
+Multi
+SCTelcom
+Medicine Lodge, KS
+Change Server
+185.130.44.108
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto? Si son diferentes, porque el tráfico no viaja directamente desde
+nuestro ordenador y sufre desvios, dandonos más ping.
+
+¿Que significa el valor del ping? La latencia del servidor o la demora en devolvernos una respuesta.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué? Si, varia por la geolocalización ya que debe de viajar desde tu posición orignal 
+hasta la posición que le indicamos al vpn que estamos.
+
