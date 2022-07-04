@@ -1,0 +1,35 @@
+Preguntas Realizar en mesa
+En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP pública y anotar. 
+Ip sin VPN: 186.55.31.59 (Uruguay)
+
+
+
+En Opera con VPN activada debemos consultar nuestra ip y consultar su geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar. 
+Con VPN: 77.111.246.40 (EEUU)
+
+Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma. 
+
+IP: 104.219.236.119 (New Youk)
+
+
+
+
+
+¿Las ip públicas son las mismas? ¿por qué?
+No son las mismas, varian según la ubicación del servidor que nos responde.
+
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Sin utilizar la VPN no podemos visualizar el video.
+Al activar la VPN nos salta una ventana en la que debemos clickear para continuar y ahí podemos reproducir el mismo.
+Esto sucede porque el video se puede ver desde la zona en la que está ubiado el proveedor de la VPN por la que accedemos.
+
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Si.
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
