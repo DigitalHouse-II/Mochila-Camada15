@@ -1,0 +1,23 @@
+----------------------¿Por qué un lenguaje de programación solo puede usarse en algunos sistemas operativos y en otros no?----------------------------------------------
+	Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sistema operativo cambia la definición de la interrupción o el llamado de esta; por ejemplo en Windows para mostrar en pantalla usas la interrupción 21 (si no mal recuerdo), y en Linux me parece que es la 10 (si recuerdo bien), lo cual hace los ejecutables finales incompatibles entre sistemas operativos.
+
+
+
+-------------------¿Qué tipo de MV soporta Virtual Box?-----------------------------------
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Genode,? Windows y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS, Genode y muchos otros.
+
+
+
+---------------¿Qué función cumple el hypervisor en la virtualización?--------------------------
+El hipervisor actúa como la plataforma para máquinas virtuales. Proporciona la división necesaria entre el sistema operativo de la máquina virtual y el hardware de la máquina host. La máquina donde se hospeda puede compartir sus recursos, como la memoria RAM y la potencia de procesamiento, en múltiples cargas de trabajo.
+De esta manera, todos los hipervisores permiten ejecutar entornos de máquina virtual en una máquina host, pero a pesar de sus similitudes funcionan de forma diferente bajo dos grandes clasificaciones.
+
+Hipervisor Tipo 1
+También conocido como hipervisor de metal desnudo, se ejecuta directamente en el hardware de la máquina host. El Microsoft Hyper-V es un excelente ejemplo de este tipo. No requiere instalaciones adicionales de software externo y administra directamente el sistema operativo invitado. VMWare ESX y vSphere; Citrix XenServer y Oracle VM son hipervisores de este tipo.
+
+Hipervisor Tipo 2
+Conocido como hipervisor alojado, se instala en el sistema operativo como cualquier otro software. El entorno de la máquina virtual se ejecuta como un proceso en la máquina host y también comparte el hardware del equipo, pero la administración de la máquina virtual se enruta a través del host en lugar de ejecutar comandos directamente. La consecuencia de esta solución es una ligera latencia entre acciones aunque depende mucho de la capacidad de la máquina y recursos asignados. VirtualBox, VMware Workstation y VMware Workstation Player son ejemplos de un hipervisor Tipo 2.
+
+------------------Si tengo más de una máquina virtual instalada y una se rompe ¿Esto afecta a las demás? ¿Por qué?-----------------------------------------------------------------------
+No, no afecta a las demás máquinas virtuales ya que son virtualizaciones alojadas en archivos diferentes dentro de la máquina anfitriona. Simplemente deja de funcionar ese archivo y los demás siguen su curso normal
