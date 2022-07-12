@@ -1,0 +1,11 @@
+usuario@Ubuntu-Intro:~$ cowsay "Aguante la Camada 15"
+ ______________________
+< Aguante la Camada 15 >
+ ----------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+usuario@Ubuntu-Intro:~$ 
+
