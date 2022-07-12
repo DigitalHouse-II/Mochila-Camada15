@@ -1,0 +1,29 @@
+GRUPO 8 -> Juan Lorca; Anthony Guekdjian; Juan Elizondo; Yesica Zabala; Gabriel Gesta; Mariel Castro.
+
+IP SIN VPN: 190.28.165.88
+
+IP OPERA VPN: IPv6: 2001:67c:2628:647:12::ba
+              IPv4: 77.111.246.40
+
+IP TOR Y GEOLOCALIZACION: 5.45.96.177 United States
+
+Las ip públicas no son las mismas porque al usar VPN se le aplica una mascara.
+
+Sin VPN no se puede ver el video, al activarla si. Esto se debe a que el video no esta disponible en nuestra localización.
+
+Utilizando Tor pudimos localizar la IP, dio como resultado:
+País 	United States
+Ciudad 	
+Latitud	         37.750999450684
+Longitud	-97.821998596191
+
+Velocidad de descarga Opera con VPN: DESCARGA [1.59Mbps] SUBIDA [9.67Mbps] Ping ms  229 
+Velocidad de descarga Opera sin VPN: DESCARGA [16.42Mbps]SUBIDA [16.83Mbps]Ping ms  198 
+Velocidad de descarga Red activada:     DESCARGA[8.65Mbps]  SUBIDA[0.56Mbps]  PING[500]\
+
+
+Las velocidades en los test son diferentes porque al usar VPN los request tienen que viajar a otro servidor y dependiendo de la distancia tarda mas o menos.
+
+El ping es una unidad de medida que sirve para medir la latencia. En términos simples, la latencia es el tiempo que tarda en transmitirse un paquete de datos dentro de la red.
+
+El valor ping varia entre las diferentes opciones porque no se conecta a la misma red de servidores.
