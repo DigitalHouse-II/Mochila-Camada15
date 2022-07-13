@@ -1,0 +1,143 @@
+Armado de  computadoras
+
+
+
+Consigna
+Detalles
+Especificaciones de equipos
+Entrega
+
+Índice
+
+Consigna 
+1
+
+En base a lo aprendido de toda la estructura de computadoras, vamos a proceder a armar diferentes computadoras en base a necesidades de uso determinadas y compatibilidades entre sus diferentes componentes.
+Vamos a armar 9 computadoras de 3 gamas diferentes (gama alta, media y baja) en donde habrá que determinar los componentes compatibles a cada uno.
+
+
+Consigna
+
+Detalles
+2
+
+Detalles de armado
+Para el armado vamos a tener un cuadro de especificaciones donde tendremos separado.
+
+Procesador
+Placa madre
+Memoria primaria
+Memoria secundaria
+GPU (si es que fuera necesario)
+
+Deberemos armar 
+computadoras por gama, donde cada una de estas  serán o compatibles con Intel o AMD.
+El tercer ordenador debe ser armado a libre criterio del estudiante.
+
+
+
+
+Detalles
+¿Por qué esta actividad?¿Sirve este ejercicio de armar computadoras?
+
+A la hora de trabajar en un ambiente laboral, las computadoras son una parte esencial del trabajo día a día, por lo cual la habilidad de poder armar una a base de ciertas especificaciones es una habilidad necesaria para el profesional de IT.
+
+
+
+Recordemos que para
+los diferentes componentes existen ciertas características como los sockets, frecuencia y conectores, los cuales hay que tener en cuenta para la compatibilidad.
+
+Especificaciones
+de equipos
+3
+
+Gama baja
+Los equipos considerados de gama baja generalmente son utilizados por personas que necesitan pocos requisitos. Podríamos poner el ejemplo de una persona que trabaje en una oficina con planillas de ofimática (Excel, Word, etc.) generalmente no necesitan GPU.
+
+Gama baja - Intel
+Procesador
+Core i3 7100
+Placa madre
+Memoria principal
+Memoria secundaria
+
+Gama baja - AMD
+Procesador
+Ryzen 3 2200g
+Placa madre
+Memoria ram
+Memoria secundaria
+
+Gama baja 
+Procesador
+Placa madre
+Memoria principal
+Memoria secundaria
+Esta computadora debe ser armada a libre criterio del estudiante.
+
+Gama media
+Los equipos considerados de gama media son utilizados por personas con requisitos más exigentes que la gama baja. Podríamos poner el ejemplo que se trabaje en desarrollo con herramientas ligeras (VS code, Mysql, etc.) o también para gaming con exigencias medias, pueden llevar GPU.
+
+Gama media - Intel
+Procesador
+Placa madre
+Memoria principal
+Memoria secundaria
+
+
+GPU
+GeForce GT 1030 2GD4 LP OC
+
+Gama media - AMD
+Procesador
+Placa madre
+ A320M Asrock
+Memoria principal
+Memoria secundaria
+GPU
+
+Gama media 
+Procesador
+Placa madre
+Memoria principal
+Memoria secundaria
+GPU
+Esta computadora debe ser armada a libre criterio del estudiante.
+
+
+Gama alta
+Los equipos considerados de gama alta son aquellos que requieren las mejores prestaciones del mercado. Son utilizados para tareas que requieren mucho procesamiento, como minería de datos, big data, gaming, entre otras. Generalmente utilizan GPU.
+
+Gama alta - Intel
+Procesador
+Core i7-10700
+Placa Madre
+Memoria principal
+Memoria secundaria
+
+
+GPU
+
+Gama alta - AMD
+Procesador
+Amd Ryzen 7 3800xt
+Placa Madre
+Memoria principal
+Memoria secundaria
+GPU
+
+Gama alta
+Procesador
+Placa Madre
+Memoria principal
+Memoria secundaria
+GPU
+Esta computadora debe ser armada a libre criterio del estudiante.
+
+
+Entrega
+4
+
+Entrega
+Cada estudiante debe subir a su mochila del viajero un archivo del formato que prefiera (.pdf, .doc, .xls) con el detalle de los diferentes equipos que armó.
+

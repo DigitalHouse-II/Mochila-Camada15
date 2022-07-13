@@ -1,0 +1,24 @@
+Dirección de IP es 190.134.205.181 (Uruguay)
+
+Con Opera
+
+Tu dirección IP es 77.111.246.40
+Geo Localizacion: Estados Unidos 
+Su IP: 77.111.246.40
+
+Velocidad OPERA
+Sin VPN: DESCARGA Mbps 26.05 - SUBIDA Mbps 33.08 PING ms  172
+Con VPN: DESCARGA Mbps 1.16 - SUBIDA Mbps 10.73  PING ms  195
+
+Con Tor
+
+Tu dirección IP es 209.141.53.20 País =	Anonymous Proxy
+Con VPN Download Download Mbps 6.84  - Upload Mbps 8.86 PING ms 430
+
+PREGUNTAS
+1- ¿Las ip públicas son las mismas? ¿por qué?
+IP Públicas son siempre únicas, es decir, no se pueden repetir.
+2- in utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No se puede visualizar el video por la geolocalizacion de la vpn, sin el acceso a la vpn no podemos acceder a la red donde se encuentra el video.
+3- Utilizando Tor ¿pudimos localizar la IP ? 
+No muestra la localizacion 
