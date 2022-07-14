@@ -1,0 +1,30 @@
+TOR
+Tu dirección IP es 45.139.122.241
+
+País 	United States
+Ciudad 	Ashburn
+Latitud 	39.081401824951
+Longitud 	-77.644302368164
+ISP 	Amarutu Technology Ltd
+    
+06/30/2022 10:32 PM
+ DESCARGA Mbps
+0.88
+ SUBIDA Mbps
+8.00
+Ping ms  205  234  244
+
+OPERA
+Tu dirección IP: 77.111.246.40
+ DOWNLOAD Mbps
+1.40
+ UPLOAD Mbps
+7.82
+Ping ms  202  216  212
+ 
+
+País	United States
+Ciudad	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+ISP	Opera Mini Proxy
