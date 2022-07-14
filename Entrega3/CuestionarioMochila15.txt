@@ -1,0 +1,5 @@
+1 - Porque un lenguaje de programación complica a lenguaje ensamblador el cual es ejecutado por el sistema operativo, el mismo depende de la arquitectura del procesador y la interpretación que le de el sistema operativo.
+
+2 - VMware es una máquina virtual de Sistema. La misma puede albergar uno o varios sistemas operativos.
+
+3 - No, ya que funcionan de manera independiente.
